@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 zdddd
 zzzzkljlk
 
 
 sag
+=======
+dddd
+z
+>>>>>>> dd
